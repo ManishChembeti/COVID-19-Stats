@@ -71,12 +71,12 @@ Project Resource Requirements
 
 ❖ Technologies Needed
 
-1)The project requires the Node.js open source server environment to be downloaded and 
+1) The project requires the Node.js open source server environment to be downloaded and 
 installed on the host system.
 
 2) app.js files contain tasks that will be executed on certain events
 
-3)Express Framework to setup the server
+3) Express Framework to setup the server
 
 4) Axios methos to make requests to the API
 
